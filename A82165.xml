@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the high-sheriffe of York-shire, and of the Commander in Chiefe of the Parliaments forces in the north, and the rest of the gentlemen commissioners in that county of Yorke, the 19. of May 1648. Of their intentions to rise for the suppression of Sir Marmaduke Langdale, and Sir Philip Musgrave, and the forces under their command. Also, a message from Gen. Hales, to his Excellencey the Lord Gen. Fairfax, touching his holding out of conditions of uncertain mercy to the people, and the resolution of the Kentish army, to live and dye, and stand and fall together. Subscribed in the name, and by the appointment of the knights, gentry, and inhabitants of the county of Kent. Imprimatur Gilbert Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82165</idno>
+            <idno type="STC">Wing D687</idno>
+            <idno type="STC">Thomason E445_43</idno>
+            <idno type="STC">ESTC R204805</idno>
+            <idno type="EEBO-CITATION">99864267</idno>
+            <idno type="PROQUEST">99864267</idno>
+            <idno type="VID">161769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161769)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the high-sheriffe of York-shire, and of the Commander in Chiefe of the Parliaments forces in the north, and the rest of the gentlemen commissioners in that county of Yorke, the 19. of May 1648. Of their intentions to rise for the suppression of Sir Marmaduke Langdale, and Sir Philip Musgrave, and the forces under their command. Also, a message from Gen. Hales, to his Excellencey the Lord Gen. Fairfax, touching his holding out of conditions of uncertain mercy to the people, and the resolution of the Kentish army, to live and dye, and stand and fall together. Subscribed in the name, and by the appointment of the knights, gentry, and inhabitants of the county of Kent. Imprimatur Gilbert Mabbot.</title>
+                  <author>Hales, Edward, Sir, 1575 or 6-1654.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jun. 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  Kent --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Kent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161769:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>THE DECLARATION OF THE High-Sheriffe OF YORK-SHIRE, AND OF The Commander in Chiefe of the PAR<g ref="char:EOLhyphen"/>LIAMENTS Forces in the NORTH, and the reſt of the Gentlemen Commiſſioners in that County of <hi>Yorke,</hi> the 19. of <hi>May</hi> 1648. OF Their intentions to riſe for the ſuppreſsion of Sir <hi>Marmaduke Langdale,</hi> and Sir <hi>Philip Musgrave,</hi> and the Forces under their Command.</p>
+            <p>ALSO, A Meſſage from Gen. HALES, to his Excellency the Lord Gen. <hi>Fairfax,</hi> touching his holding out of Conditions of uncertain mercy to the people, and the Reſolution of the <hi>Kentiſh</hi> Army, to live and dye, and ſtand and f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll together.</p>
+            <p>S<g ref="char:V">Ʋ</g>bſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ribed in the Name, and by the Appointment of the Knights Gentry, and Inhabitants of the County of Kent.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>GILBERT MABBOT.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON. Printed by</hi> Iohn Clowes. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:161769:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="1" facs="tcp:161769:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>THE DECLARATION OF THE HIGH SHERIFFE OF <hi>Yorkeſhire,</hi> and of the Commander in Chiefe of the Parliaments Forces in the <hi>North,</hi> and the reſt of the Gentlemen Commiſſioners in that County of <hi>Yorke,</hi> there aſſembled the 19. of <hi>May</hi> 1648: of their intentions to riſe for the ſuppreſsion of Sir <hi>Marmaduke Langdale,</hi> &amp; Sir <hi>Phi<g ref="char:EOLhyphen"/>lip Muſgrave,</hi> and the Forces under their Command.</head>
+            <p>THe Parliament having lately (with much ex<g ref="char:EOLhyphen"/>pence of blood and publike Treaſure) redu<g ref="char:EOLhyphen"/>ced the whole Kingdom from the miſeries of a long and dangerous Warre to a hopefull beginning of Peace, and having taken off Free-Quarter, and re<g ref="char:EOLhyphen"/>duced
+<pb n="2" facs="tcp:161769:3"/>
+               <!-- PDF PAGE 33 -->the Forces of the Kingdom to a ſmall Army, which is to be continued only for a ſeaſon, untill the ill humours, ſtirred up by the Warre, ſhould be ſetled again, (the n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceſſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie whereof moſt evidently appears at this time) and being in hand to take off all other burthens and gri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vances of <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he people, and to ſettle the Government according to the <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncient Lawes and juſt freedom of this Nation. The ſame Malignant Parti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Councel that firſt involved the Land in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> la<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Warre, envying that the p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople ſhould <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>njoy the bleſſing of Peace, have now again invaded the North with ſome Forces brought in under Com<g ref="char:EOLhyphen"/>mand of Sir <hi>Marmaduke Langdale,</hi> Sir <hi>Philip Mus<g ref="char:EOLhyphen"/>grave,</hi> and others, who have already ſeized upon <hi>Bar<g ref="char:EOLhyphen"/>wick</hi> and <hi>Carlile,</hi> and have poſſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed themſelves of all or moſt part of <hi>Cumberland</hi> and <hi>Weſtmerland,</hi> raiſing Forces in thoſe parts, in great numbers, and drawing to them from this Gountie, and other parts of <hi>England</hi> verie great multitudes of P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts, Malignants, and o<g ref="char:EOLhyphen"/>ther perſons of deſperate condition, that were for<g ref="char:EOLhyphen"/>merly ingaged in the late Warre, againſt the Parlia<g ref="char:EOLhyphen"/>ment and Kingdom of <hi>England,</hi> and are now marched up verie near the Borders of this Countie, which they threaten everie day to invade, and by that means muſt infallibly bring upon all the Inhabitants the ſame or worſe evills than thoſe formerly ſuff<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red by the Warre, the bleeding wounds whereof are not yet ſtanched, which we having taken into ſerious conſideration, and well knowing, that, how ſpecious ſoever their pretences are, yet they intend the intra<g ref="char:EOLhyphen"/>ducing of a Tirannicall Government, and the de<g ref="char:EOLhyphen"/>ſtruction
+<pb n="3" facs="tcp:161769:3"/>
+               <!-- PDF PAGE 33 -->of the Lawes, Liberties, and Religion of this Kingdom; and that if they be ſuffered to enter into this Countie, they will make it the ſeate of a moſt dangerous and laſti<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g Warre, and thereby will undoubtedly deſtroy the lives of a great number of I<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>habitants, and utterly con<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ume the Eſtates and Livelihoods of all ſort<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of people whatſoever, which we being reſolved (by the helpe of Almightie God) to prevent, and avoid, ſo much as in us lies, and to that end (having given order for the raiſing of Forces in this Countie, according to the V<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes and Reſolu<g ref="char:EOLhyphen"/>tions concluded upon Us) We do Declare, that our intentions therein are no other than to oppoſe the in<g ref="char:EOLhyphen"/>vaſion of this Countie, and the ſpoile thereof, by the ſaid Forces raiſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by Sir <hi>Marmaduke Langdale</hi> and his adherents; and that ſuch forces as ſhall thus be raiſed by us ſhall neither be drawn out of the bounds of this Countie without their own conſents, nor ſhall be longer continued in Armes then untill the Countrie ſhall be ſecured from the danger now threatned, which we thought neceſſarie to publiſh in this man<g ref="char:EOLhyphen"/>ner to all perſons well-affected to the Peace and wel<g ref="char:EOLhyphen"/>farre of the Countie, and the maintenance of the Proteſtant Religion, to incourage them cheerefullie to riſe, and take up Armes in this ſo juſt and nec<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<g ref="char:EOLhyphen"/>ſarie Defence of themſelves, wherein we cannot doubt to finde their complyance with Us; and to this extraordinarie way we are at this inſtant neceſ<g ref="char:EOLhyphen"/>ſitated, becauſe we hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that a part of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Parlia<g ref="char:EOLhyphen"/>ments Army, that were lately ingaged in ſuppreſſing the like attempts of the Enemie in <hi>Wales,</hi> are ſtill im<g ref="char:EOLhyphen"/>ployed
+<pb n="4" facs="tcp:161769:4"/>
+               <!-- PDF PAGE 34 -->in ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling of the peace of thoſe parts, though part of that Army be now alſo upon their March this way for our Protection, yet the danger of the Countrey is ſo eminent, and at hand, as it requires all mens active readi<g ref="char:EOLhyphen"/>neſſe to defend it, and we doubt not that every one doing his duty therein, God will bleſſe our endeavours.</p>
+            <closer>
+               <dateline>
+                  <date>June the ſecond 1648.</date>
+               </dateline> 
+               <signed>Thomas Darcy Cler:</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:161769:4"/>
+            <!-- PDF PAGE 34 -->
+            <head>A Letter to His Excellency THOMAS Lord FAIRFAX.</head>
+            <opener>
+               <salute>My Lord.</salute>
+            </opener>
+            <p>THe Laws of Nature are univerſal and perpetuall, among which, that of ſelf preſervation is one, ye have Declared as much, judge if it be not; Wee have taken up Armes to defend our ſelves, and provi<g ref="char:EOLhyphen"/>dence hath now bleſt us with a power to do it, which we cannot relinquiſh but with the forfeiture of our reaſon, and ho<g ref="char:EOLhyphen"/>nour. We invade not your right, but ſeeke to ſecure our own, and ſo to do, is neither tumult nor rebellion. You are pleaſed to hold out conditions of uncertaine mercy to the people, and withall a fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t menaſſie of an exemplary and poſſitive proſecution upon the principles. To this I muſt aſſure you (Sr.) it is but one ſoule which informes this body, and we are determined to ſtand, or fall together being rendered uncapable of a<g ref="char:EOLhyphen"/>ny feare, ſave only, of relapſing into our for<g ref="char:EOLhyphen"/>mer ſlavery; Wee need no other arguments
+<pb n="4" facs="tcp:161769:5"/>
+               <!-- PDF PAGE 35 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:161769:5"/>
+               <!-- PDF PAGE 35 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:161769:6"/>
+               <!-- PDF PAGE 36 -->(then what the faire mannage of this buſines affords) to teſtify our love to peace, if your ſelfe ſtand ſo inclined. Alſo be pleaſed rather to make this County a friend then an ene<g ref="char:EOLhyphen"/>my, ar to the Petition, wee hope it will be ſeaſonably conſidered of,</p>
+            <closer>
+               <dateline>Rocheſter. <date>May 31. 1648.</date>
+               </dateline>
+               <signed>VVe are your ſervants 
+<list>
+                     <item>
+                        <hi>Phil. Maſvell</hi> Major,</item>
+                     <item>Edward Hales.</item>
+                  </list>
+Signed in the name and by the ap<g ref="char:EOLhyphen"/>pointment of the Gentry of this Coun<g ref="char:EOLhyphen"/>ty, by <g ref="char:V">Ʋ</g>s.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Jmprimatur</p>
+            <closer>
+               <signed>GILBERT MABBOT</signed>
+            </closer>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </back>
+   </text>
+</TEI>
